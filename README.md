@@ -14,20 +14,26 @@ Add this marketplace to Claude Code:
 
 | Plugin | Description |
 |--------|-------------|
-| [projects](https://github.com/cyberswat/projects) | Multi-project management - track projects, switch between them, resume with context |
+| [projects](https://github.com/cyberswat/projects) | Multi-project management with context saving |
 
-## Installing Plugins
+## Installing a Plugin
 
 After adding the marketplace:
 
 ```
-/plugin install projects@cyberswat-plugins
+/plugin install projects@cyberswat
 ```
 
 ## Updating
 
-To get the latest plugin list:
+Update the marketplace to get the latest versions:
 
 ```
-/plugin marketplace update cyberswat-plugins
+/plugin marketplace update cyberswat
+```
+
+Then update individual plugins:
+
+```
+/plugin update projects@cyberswat
 ```
