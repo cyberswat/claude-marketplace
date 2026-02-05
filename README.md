@@ -12,16 +12,24 @@ Add this marketplace to Claude Code:
 
 ## Available Plugins
 
+### Workflow
+
 | Plugin | Description |
 |--------|-------------|
 | [projects](https://github.com/cyberswat/projects) | Multi-project management with context saving |
+
+### Thinking
+
+| Plugin | Description |
+|--------|-------------|
+| [analysis](https://github.com/cyberswat/claude-plugin-analysis) | Structured thinking framework for analysis and decision-making |
 
 ## Installing a Plugin
 
 After adding the marketplace:
 
 ```
-/plugin install projects@cyberswat
+/plugin install <plugin-name>@cyberswat
 ```
 
 ## Updating
