@@ -6,17 +6,6 @@
   },
   "plugins": [
     {
-      "name": "projects",
-      "description": "Multi-project management for Claude Code",
-      "version": "1.3.0",
-      "category": "workflow",
-      "keywords": ["projects", "context", "switching"],
-      "source": {
-        "source": "github",
-        "repo": "cyberswat/claude-plugin-projects"
-      }
-    },
-    {
       "name": "analysis",
       "description": "Structured thinking framework with research subagent, assumption tracking, severity rated critique, confidence calibrated synthesis, and adaptive decision guidance with type detection",
       "version": "2.0.1",
