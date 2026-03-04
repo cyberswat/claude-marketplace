@@ -30,7 +30,7 @@
     {
       "name": "nexus",
       "description": "Obsidian knowledge graph for context that grows with use. Session management, note processing, periodic review, and graph traversal through linked notes.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "category": "knowledge",
       "keywords": ["obsidian", "knowledge-graph", "zettelkasten", "notes", "vault"],
       "source": {
